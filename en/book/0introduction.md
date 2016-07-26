@@ -18,3 +18,5 @@
 
 You can browse the demo in a read only mode by [**clicking here**](http://gwloto.geekwright.com/modules/gwloto/). To try the editing tools, click the button below. Once in the demo, you will have full edit authority in the "Sandbox" place.
 
+The data in the demo system is reset periodically. If you have any special requirements to maintain data you have entered for a longer period, please [**contact us**](http://gwloto.geekwright.com/modules/contact/). 
+
