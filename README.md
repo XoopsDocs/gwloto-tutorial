@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-Gwloto is a web based hazardous energy control plan manager. It is designed to facilitate the communication and tracking of vital safety procedures to enable workers to safely accomplish maintenance tasks through a documented lockout and tagout program. 
+GwLoto is a web based hazardous energy control plan manager. It is designed to facilitate the communication and tracking of vital safety procedures to enable workers to safely accomplish maintenance tasks through a documented lockout and tagout program. 
 
 ![image001.png](en/assets/image001.png)
 *Figure 1: Main view of the gwLoto Module (Admin side)*
