@@ -12,27 +12,21 @@ Detailed instructions on installing modules are available in the **[Chapter 2.12
 
 ## _**Requirements**_
 
-A working ImpressCMS or XOOPS content management system (see below.)
+* A working XOOPS CMS (Content Management System) (see below.)
 
-Web server with PHP support. PHP version 5.0 or greater is strongly recommended.
+* Web server with PHP support. PHP version 5.5 or greater is strongly recommended.
 
-MySQL database server version 4.1 or greater. Version 5.0 or greater recommended.
+* MySQL database server version 4.1 or greater. Version 5.0 or greater recommended.
 
-TCPDF Version 5.2.000 or greater recommended (see below.)
+* TCPDF Version 5.2.000 or greater recommended (see below.)
 
 ### **Content Management System**
 
-Gwloto is implemented as a module for either ImpressCMS or XOOPS. Both of these are content management systems, and they will be described generically in this documentation as "CMS" unless commenting on specific unique features.
+Gwloto is implemented as a module for **XOOPS CMS**. It will be described generically in this documentation as "CMS" unless commenting on specific unique features.
 
-Gwloto has been tested with ImpressCMS version 1.2.2. Other versions may work, but this is the only version tested and officially supported.
+Gwloto has been tested with XOOPS version 2.5.5+ Other versions may work, but this is the only version tested and officially supported.
 
-For more information on ImpressCMS, see: http://www.impresscms.org/
-
-ImpressCMS is also available from the Microsoft Web Apps Gallery, see: http:\/\/www.microsoft.com\/web\/gallery\/ImpressCMS.aspx
-
-Gwloto has been tested with XOOPS version 2.4.5. Other versions may work, but this is the only version tested and officially supported.
-
-For more information on XOOPS, see: http://www.xoops.org/
+For more information on XOOPS, see: **http://www.xoops.org/**
 
 ### **TCPDF**
 
