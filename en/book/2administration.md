@@ -23,7 +23,7 @@ Installation of gwloto will define a default language. If you will not be using 
 
 Gwloto's language features supplement the base CMS language features. For complete multilingual support, you will need to install the appropriate language pack(s) for your CMS. The CMS language support is built on language folders. With the main CMS directory, there is a "language" folder. Inside that is an "english" folder which contains files defining all the phrases used in the base CMS in the English language. If you want to add, for example, español, you will be adding an additional folder, "spanish" which will include the phrases in that language. In addition to the base CMS, each installed module also has a "language" directory following the same structure.
 
-The CMS allows definition of a system wide language, as well as a per user language. ImpressCMS also has built in multilingual support features, allowing switching language on the fly with a single click. Similar support is available for XOOPS with a third party system patch.
+The CMS allows definition of a system wide language, as well as a per user language. XOOPS has a multilingual support feature with a xLanguage module, allowing switching language on the fly with a single click. 
 
 To define additional languages within gwloto, you will need to complete the system generated default language entry in the module administration area, and add the additional language(s). A language definition in this context includes the following:
 
